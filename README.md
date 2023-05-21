@@ -1,2 +1,2 @@
-# Machine-Learning-Mastery
-A repository of projects which I am/have doing/done to have good hold over fundamental concepts of machine learning.
+# Deep Learning
+- Andrej Karpathy's Neural Networks: Zero to Hero
